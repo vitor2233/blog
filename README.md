@@ -1,2 +1,2 @@
 # blog
-Blog
+Blog feito em node.js e react.js
